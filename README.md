@@ -1,2 +1,2 @@
-# COMP537-DeFact.AI
-Repository for KU COMP537 Project - DeFact.AI
+# COMP537-ReFact.AI
+Repository for KU COMP537 Project - ReFact.AI
